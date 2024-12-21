@@ -1,6 +1,6 @@
 
-# Voice-Based Train Enquiry System 🚆🎤
-The Voice-Based Train Enquiry System is a Python-based application designed to operate using voice commands. Users can interact with the system through voice input to receive train-related information. The system processes voice inputs, converts them into text, and fetches the relevant details from a database. It also supports voice output to enhance user experience.
+# Voice-Activated Train Enquiry System 🚆🎤
+The Voice-Activated Train Enquiry System is a Python-based application designed to operate using voice commands. Users can interact with the system through voice input to receive train-related information. The system processes voice inputs, converts them into text, and fetches the relevant details from a database. It also supports voice output to enhance user experience.
 
 This project is built using Python, SQLite for database management, and Google’s Speech-to-Text API for speech recognition. A microphone is required for capturing user voice inputs.
 
